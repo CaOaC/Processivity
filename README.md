@@ -56,61 +56,7 @@ You can load the following files from the **`Output`** **Output** directory into
 
 
 
-
-
-
-
-
-
-
-
-
-
-<p>Visualization of chromosome folding process:</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <vedio src="./Media/Processivity.mov" width="500" controls>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</vedio>
-
-
+<div align="center">  <video src="./Media/Processivity.mov" width="500" controls>    Your browser does not support the video tag.  </video></div>
 
 
 
