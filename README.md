@@ -1,10 +1,8 @@
 # Processivity
 
-Here we provide the codes for the manuscript "Theory of Chromosome Structural Dynamics by Processive Loop Extrusion". The provided files contain the codes that were developed based on the processive grappling motor model to study chromatin jets and mitotic chromosome folding.
+The processivity model for simulate chromosome jet and mitotic chromosome folding
 
 ## ✨ Features
-
-
 
 - Simulates the processive grappling motor
 - Supports chromatin jets and mitotic chromosome folding
@@ -48,13 +46,15 @@ make -j8
 
 
 
-You can load the following files from the **`Output`** **Output** **Output** **Output** **Output** **Output** **Output** directory into `OVITO` to visualize the simulation trajectory.
+You can load the following files from the **`Output`** **Output** directory into `OVITO` to visualize the simulation trajectory.
 
 - `.dump` file: trajectory animation
 - `.data` file: topological structure
 
 
 <h3>🎞️ movie </h3>
+
+
 
 
 
@@ -78,6 +78,8 @@ You can load the following files from the **`Output`** **Output** **Output** **O
 
 
 
+
+
 <div align="center">
 
 
@@ -90,7 +92,9 @@ You can load the following files from the **`Output`** **Output** **Output** **O
 
 
 
-  <img src="./media/demo.gif" width="500"/>
+
+
+  <vedio src="./Media/Processivity.mov" width="500" controls>
 
 
 
@@ -102,7 +106,9 @@ You can load the following files from the **`Output`** **Output** **Output** **O
 
 
 
-</div>
+
+
+</vedio>
 
 
 
@@ -111,9 +117,4 @@ You can load the following files from the **`Output`** **Output** **Output** **O
 
 ## 🧾 Information
 
-
-
-Here we provide the codes for the manuscript ""
-
-
-
+Here we provide the codes for the manuscript "Theory of Chromosome Structural Dynamics by Processive Loop Extrusion". The provided files contain the codes that were developed based on the processive grappling motor model to study chromatin jets and mitotic chromosome folding.
