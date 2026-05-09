@@ -1,12 +1,13 @@
 # Processivity
 
-The processivity model for simulate chromosome jet and mitotic chromosome folding
+The processive grappling motor model for active chromosome.
+
+
 
 ## ✨ Features
 
 - Simulates the processive grappling motor
-- Supports chromatin jets and mitotic chromosome folding
-- Implements Condensin I / II motor activity models with residence
+- Implements Condensin I / II motor activity models with residence time and extrusion speed.
 - Compatible with OVITO for visualization of `.dump` and `.data` trajectory files
 
 ## 📦 Dependencies
@@ -59,7 +60,7 @@ Visualize for the mitotic chromosome folding by processive grappling motors
 
 
 <div align="center">
-  <img src="./Media/Compaction.gif" width="500" alt="Visualization of chromosome folding process">
+  <img src="./Media/Compaction.gif" width="500">
 </div>
 
 
@@ -69,7 +70,7 @@ Visualize for the steady states
 
 
 <div align="center">
-  <img src="./Media/Processivity.gif" width="500" alt="Visualization of chromosome folding process">
+  <img src="./Media/Processivity.gif" width="500">
 </div>
 
 
