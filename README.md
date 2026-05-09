@@ -55,10 +55,20 @@ You can load the following files from the **`Output`** **Output** directory into
 <h3>🎞️ movie </h3>
 
 
+Visualize for mitotic chromosome folding
+
+
+<div align="center">
+  <img src="./Media/Compaction.gif" width="500" alt="Visualization of chromosome folding process">
+</div>
+
+
+
+
+Visualize for the formation of chromatin jets
+
 
 <div align="center">  <video src="./Media/Processivity.mov" width="500" controls>    Your browser does not support the video tag.  </video></div>
-
-
 
 
 ## 🧾 Information
