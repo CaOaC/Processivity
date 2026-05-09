@@ -55,7 +55,7 @@ You can load the following files from the **`Output`** **Output** directory into
 <h3>🎞️ movie </h3>
 
 
-Visualize for mitotic chromosome folding
+Visualize for the mitotic chromosome folding by processive grappling motors 
 
 
 <div align="center">
@@ -65,10 +65,13 @@ Visualize for mitotic chromosome folding
 
 
 
-Visualize for the formation of chromatin jets
+Visualize for the steady states
 
 
-<div align="center">  <video src="./Media/Processivity.mov" width="500" controls>    Your browser does not support the video tag.  </video></div>
+<div align="center">
+  <img src="./Media/Processivity.gif" width="500" alt="Visualization of chromosome folding process">
+</div>
+
 
 
 ## 🧾 Information
